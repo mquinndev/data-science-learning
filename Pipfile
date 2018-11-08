@@ -8,6 +8,7 @@ ipython = "*"
 pandas = "*"
 jupyter = "*"
 scikit-learn = "*"
+xgboost = "*"
 
 [dev-packages]
 
