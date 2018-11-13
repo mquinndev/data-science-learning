@@ -11,6 +11,11 @@ scikit-learn = "*"
 xgboost = "*"
 matplotlib = "*"
 pyspark = "*"
+networkx = "*"
+numpy = "*"
+seaborn = "*"
+statsmodels = "*"
+sympy = "*"
 
 [dev-packages]
 
